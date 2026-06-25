@@ -109,7 +109,7 @@ const revealObserver = new IntersectionObserver(
       }
     });
   },
-  { threshold: 0.15, rootMargin: "0px 0px -180px 0px" },
+  { threshold: 0.15, rootMargin: "0px 0px -160px 0px" },
 );
 
 revealElements.forEach(function (el) {

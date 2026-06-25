@@ -50,7 +50,7 @@ portfolio/
 
 ## 📸 Preview
 
-![Portfolio Preview](assets/images/portfolio-preview.jpg)
+![Portfolio Preview](assets/images/portfolio-preview.jpeg)
 
 ---
 
